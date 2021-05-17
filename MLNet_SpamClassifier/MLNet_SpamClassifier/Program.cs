@@ -62,9 +62,7 @@ namespace MLNet_SpamClassifier
                 Console.WriteLine($"Classification: {(Convert.ToBoolean(prediction.Prediction) ? "Spam" : "Not spam")}");
             }
 
-            Console.WriteLine();
-
-            // 8. Save the trained model
+            
         }
     }
 
