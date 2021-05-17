@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLNet_MultipleRegression", "MLNet_MultipleRegression\MLNet_MultipleRegression.csproj", "{E968349C-8F13-4748-A99D-49A2EF5BFB3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E968349C-8F13-4748-A99D-49A2EF5BFB3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E968349C-8F13-4748-A99D-49A2EF5BFB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E968349C-8F13-4748-A99D-49A2EF5BFB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E968349C-8F13-4748-A99D-49A2EF5BFB3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8F903D7-13ED-4766-9E76-22E7726C1DF7}
+	EndGlobalSection
+EndGlobal
