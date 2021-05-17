@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLNet_SpamClassifier", "MLNet_SpamClassifier\MLNet_SpamClassifier.csproj", "{912D2B5E-726F-4D60-AF69-09FA72987D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{912D2B5E-726F-4D60-AF69-09FA72987D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912D2B5E-726F-4D60-AF69-09FA72987D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912D2B5E-726F-4D60-AF69-09FA72987D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912D2B5E-726F-4D60-AF69-09FA72987D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAEAB2C2-CCEE-4D16-8B19-66CD30887357}
+	EndGlobalSection
+EndGlobal
